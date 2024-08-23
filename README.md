@@ -1,4 +1,4 @@
-Overview
+Overview:
 This project aims to forecast the future prices of Ethereum (ETH) using the Temporal Fusion Transformer (TFT) model implemented in PyTorch Lightning. The project leverages historical data from the CryptoCompare API to predict the next 7 days' closing prices of ETH/USD. The prediction is based on 2000 days of historical price data, making it suitable for analyzing and forecasting trends in highly volatile markets like cryptocurrencies.
 
 Project Structure
