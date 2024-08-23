@@ -14,4 +14,20 @@ Prediction: After training, the model predicts the next 7 days' prices, which ar
 
 ![download](https://github.com/user-attachments/assets/90095052-7e21-41b6-a1bb-41958fbce3b7)
 
+Last known price: $2666.47
 
+Ethereum Price Predictions: Date Predicted_Price
+
+2024-08-24 $2654.98
+
+2024-08-25 $2672.34
+
+2024-08-26 $2674.24
+
+2024-08-27 $2668.47
+
+2024-08-28 $2658.62
+
+2024-08-29 $2646.82
+
+2024-08-30 $2634.34
